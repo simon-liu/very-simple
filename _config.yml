@@ -1,21 +1,10 @@
-# Header
 menu:
-  ## If your site is put in a subdirectory, set Home as '/child/'
-  Home: /
-  Archives: archives
+  首页: /
+  归档: /archives
+  社区贡献: /contributions
 
 social:
-  email:
-  twitter:
-  weibo:
-  github:
-  googleplus:
-  rss: /atom.xml
+  email: zenglu.liu@gmail.com
+  github: simon-liu
 
-# Content
-fancybox: true # set to true if you want to use it
-
-duoshuo: #duoshuo_shortname
-disqus: #disqus _shortname
-google_analytics: #Google Analytics Tracking Code
-google_adsense_page_level_ads: #Google Adsense Page Level Ads Code
+fancybox: false
